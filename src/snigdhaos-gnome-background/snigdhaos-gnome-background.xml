@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+<wallpaper deleted="false">
+<name>Default</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-background-01.png</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-background-01.png</filename-dark>
+<options>zoom</options>
+<shade_type>solid</shade_type>
+<pcolor>#3465a4</pcolor>
+<scolor>#000000</scolor>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Abstract</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-background-02.png</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-background-02.png</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+<wallpaper deleted="false">
+<name>Animated</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-background-03.png</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-background-03.png</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
+</wallpapers>
+
