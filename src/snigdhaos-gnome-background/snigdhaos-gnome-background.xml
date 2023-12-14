@@ -11,7 +11,7 @@
 <scolor>#000000</scolor>
 </wallpaper>
 <wallpaper deleted="false">
-<name>Abstract</name>
+<name>Background 02</name>
 <filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-background-02.png</filename>
 <filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-background-02.png</filename-dark>
   <options>stretched</options>
@@ -20,7 +20,7 @@
     <shade_type>solid</shade_type>
 </wallpaper>
 <wallpaper deleted="false">
-<name>Animated</name>
+<name>Background 03</name>
 <filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-background-03.png</filename>
 <filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-background-03.png</filename-dark>
   <options>stretched</options>
