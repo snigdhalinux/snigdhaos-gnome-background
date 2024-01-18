@@ -190,5 +190,14 @@
     <scolor>#000000</scolor>
     <shade_type>solid</shade_type>
 </wallpaper>
+<wallpaper deleted="false">
+<name>Background 22</name>
+<filename>/usr/share/backgrounds/snigdhaos-gnome-background/unix.jpg</filename>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/unix.jpg</filename-dark>
+  <options>stretched</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    <shade_type>solid</shade_type>
+</wallpaper>
 </wallpapers>
 
