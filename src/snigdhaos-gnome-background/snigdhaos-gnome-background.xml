@@ -31,7 +31,7 @@
 <wallpaper deleted="false">
 <name>Background 04</name>
 <filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-07.jpg</filename>
-<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-08.png</filename-dark>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-08.jpg</filename-dark>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -58,7 +58,7 @@
 <wallpaper deleted="false">
 <name>Background 07</name>
 <filename>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-13.jpg</filename>
-<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-14.png</filename-dark>
+<filename-dark>/usr/share/backgrounds/snigdhaos-gnome-background/snigdhaos-14.jpg</filename-dark>
   <options>stretched</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
